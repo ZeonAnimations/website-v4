@@ -490,15 +490,3 @@
 .button[type="submit"]:hover {
     background-color: #0056b3;
 }
-
-/* Default styles for all screen sizes */
-
-/* Media query for small screens (up to 767px) */
-@media (max-width: 767px) {
-    /* Styles for small screens */
-    body {
-        font-size: 16px; /* Adjust font size for smaller screens */
-    }
-
-    /* Adjust other styles as needed for small screens */
-}
