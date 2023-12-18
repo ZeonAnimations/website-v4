@@ -92,9 +92,9 @@
 
 .section {
     padding: 100px 0;
-    background-color: rgba(191, 190, 190, 0.9); /* White translucent background */
+    background-color: rgba(191, 190, 190, 0.9);
     border-radius: 10px;
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
     backdrop-filter: blur(10px);
 }
 
@@ -125,7 +125,7 @@
 }
 
 .footer {
-    background-color: rgba(51, 51, 51, 0.9); /* Dark translucent background */
+    background-color: rgba(51, 51, 51, 0.9);
     text-align: center;
     padding: 20px 0;
     position: fixed;
@@ -282,14 +282,13 @@
     padding-left: 25px;
     max-width: 80%;
     border-radius: 25%;
-    /*Optional: Add rounded corners to the photo */;
     -webkit-border-radius: 25%;
     -moz-border-radius: 25%;
     -ms-border-radius: 25%;
     -o-border-radius: 25%;
 }
 
-/* Add styles for the project list */
+/* project list */
 .project-list {
     display: flex;
     flex-wrap: wrap;
@@ -382,7 +381,7 @@
 }
 
 .skill:hover i {
-    color: #007bff; /* Change to your preferred hover color */
+    color: #007bff; /
 }
 
 .skill p {
@@ -391,7 +390,7 @@
     color: #eaeaea;
 }
 
-/* Add styles for the educational timeline */
+/* educational timeline */
 .educational-timeline {
     display: flex;
     flex-direction: column;
