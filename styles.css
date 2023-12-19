@@ -281,11 +281,11 @@
 .photo-section img {
     padding-left: 25px;
     max-width: 80%;
-    border-radius: 25%;
-    -webkit-border-radius: 25%;
-    -moz-border-radius: 25%;
-    -ms-border-radius: 25%;
-    -o-border-radius: 25%;
+    border-radius: 150px;
+    -webkit-border-radius: 150px;
+    -moz-border-radius: 150px;
+    -ms-border-radius: 150px;
+    -o-border-radius: 150px;
 }
 
 /* project list */
